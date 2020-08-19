@@ -9,4 +9,5 @@ Projeto construido com as seguintes tecnologias:
 </ul>
 <br>
 <strong>NÃO FOI USADO CANVAS</strong>
+<br>
 Link: flappy-bird-clone-wm-mathcaavl.netlify.app
